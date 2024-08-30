@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mf-apis-web-services-fuel-manager", "mf-apis-web-services-fuel-manager\mf-apis-web-services-fuel-manager.csproj", "{1132D167-B108-4B47-B831-C20FF6E94A96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1132D167-B108-4B47-B831-C20FF6E94A96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1132D167-B108-4B47-B831-C20FF6E94A96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1132D167-B108-4B47-B831-C20FF6E94A96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1132D167-B108-4B47-B831-C20FF6E94A96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D7BD5BA-6B51-4DD4-A283-B3EA5A8EA4A5}
+	EndGlobalSection
+EndGlobal
