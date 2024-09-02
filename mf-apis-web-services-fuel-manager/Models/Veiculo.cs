@@ -7,7 +7,7 @@ namespace mf_apis_web_services_fuel_manager.Models
     public class Veiculo
     {
         [Key]
-        public int Id { get; set;
+        public int Id { get; set; }
         [Required]
         string Marca { get; set; }
         [Required]
